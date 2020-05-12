@@ -1,0 +1,6 @@
+build/exe.win-amd64-3.6/lib/cv2/cv2.cp36-win_amd64.pyd
+dataanalysis/data/train.csv
+build/SIFT_BFMatch/PKG-00.pkg
+dist/SIFT_BFMatch.exe
+v0.02/0.03/build/20200302siftknn/PKG-00.pkg
+v0.02/0.03/dist/20200302siftknn.exe
